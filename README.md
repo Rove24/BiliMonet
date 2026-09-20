@@ -3,7 +3,8 @@
 一款专为 **哔哩哔哩 (tv.danmaku.bili)** 打造的轻量级 Xposed/LSPosed 莫奈取色模块。
 在**背景与图标严格保持 B 站官方原色**的前提下，将文字与高亮色系全面接入 Android 系统 **Monet 动态取色**引擎，壁纸一换，B 站配色跟着走。
 
----
+---<img width="7546" height="8192" alt="IMG_20260920_111349" src="https://github.com/user-attachments/assets/8399f471-42ac-4662-8c38-5b183d39d1b1" />
+
 
 ## ✨ 核心特性
 
