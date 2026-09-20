@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">B站莫奈取色</string>
+    <string name="xposed_description">适配最新版B站的莫奈取色，跟随壁纸动态配色</string>
+</resources>

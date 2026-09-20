@@ -1,0 +1,8 @@
+name=B站莫奈取色
+version=0.1
+versionCode=1
+author=Rove24
+description=适配最新版B站的莫奈取色，跟随壁纸动态配色
+minApiVersion=102
+targetApiVersion=102
+staticScope=true
